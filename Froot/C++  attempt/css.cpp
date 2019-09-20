@@ -62,8 +62,6 @@ int openFile(string namefile, short &n,pair <short, short> &m, vector<Corte*> &c
 }
 
 int atempt(){
-
-
 }
 
 int main(){
