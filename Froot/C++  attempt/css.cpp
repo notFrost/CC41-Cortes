@@ -61,14 +61,16 @@ int openFile(string namefile, short &n,pair <short, short> &m, vector<Corte*> &c
     return 0;
 }
 
+int atempt(){
+
+
+}
 
 int main(){
     short planchas;
 
     pair <short, short> medidas;
     vector<Corte*> cortes;
-    openFile("test", planchas, medidas, cortes);    
-    
-
+    openFile("test", planchas, medidas, cortes); 
     return 0;
 }
