@@ -73,9 +73,6 @@ def verificar(xs, ys, corte, pnt):
         return False
     elif(pntx == 1 and pnty == 1):
         corte.x, corte.y = sx, sy
-    elif(pntx == 1):
-
-    elif(pnpty):
     return True
        #xs.insert(len(a)-1,x)
 def insertar(xs, ys, corte, xy):
