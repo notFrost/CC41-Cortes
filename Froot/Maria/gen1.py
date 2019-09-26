@@ -166,6 +166,7 @@ def randomize(n, d, c):
 #Genes - 3n
 def crearGenes(cortes):
     g = []
+    
     for c in cortes:
         for i in range (0, int(c[3])): 
             g.append(Rect(c[0], int(c[1]), int(c[2])))
