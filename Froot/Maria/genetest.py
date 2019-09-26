@@ -36,8 +36,6 @@ def write(cortes,m, f):
         s = "\n" + str(c[0]) + " " + str(c[1]) + " " + str(c[2])+" " + str(c[3])
         f.write(s)
 
-
-
 fo = open("test.txt", "w")
 mesures = []
 cortes = []
